@@ -1,0 +1,6 @@
+framework module speech_to_text {
+  umbrella header "speech_to_text-umbrella.h"
+
+  export *
+  module * { export * }
+}

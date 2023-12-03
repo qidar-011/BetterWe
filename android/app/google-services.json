@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "1026272280935",
+    "project_id": "mighty-fitness",
+    "storage_bucket": "mighty-fitness.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1026272280935:android:c1f73cecff047658e06fc2",
+        "android_client_info": {
+          "package_name": "com.mighty.fitness"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1026272280935-ptspmrpsoge7i2fa2r4bm8a322sma5tb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mighty.fitness",
+            "certificate_hash": "fbfd89540bb2c92c0491173694c7e2d943eff53a"
+          }
+        },
+        {
+          "client_id": "1026272280935-u400b2lrhshbusj4h699tshuk5rj9k7q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mighty.fitness",
+            "certificate_hash": "50d70f2e1ea77cb9e192edbd4356dbf020f86c05"
+          }
+        },
+        {
+          "client_id": "1026272280935-3c3bcb7hki9df83fm0j6r34v98tqdm44.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAh_tKYoJz7q-eWN3io5B2GGs6RIbr8oUk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1026272280935-3c3bcb7hki9df83fm0j6r34v98tqdm44.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1026272280935-o4ghddmho1697ekd5gmnabovb2ks0hn0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mighty.fitness"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
+

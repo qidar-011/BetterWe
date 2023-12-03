@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/250583948/com.onesignal.flutter.android.onesignal_flutter.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/250583948/com.onesignal.flutter.android.onesignal_flutter.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/250583948/com.onesignal.flutter.android.onesignal_flutter.main.iml" filepath="$PROJECT_DIR$/.idea/modules/250583948/com.onesignal.flutter.android.onesignal_flutter.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/250583948/com.onesignal.flutter.android.onesignal_flutter.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/250583948/com.onesignal.flutter.android.onesignal_flutter.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1547853223/dev.fluttercommunity.plus.wakelock.android.wakelock_plus.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/1547853223/dev.fluttercommunity.plus.wakelock.android.wakelock_plus.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1547853223/dev.fluttercommunity.plus.wakelock.android.wakelock_plus.main.iml" filepath="$PROJECT_DIR$/.idea/modules/1547853223/dev.fluttercommunity.plus.wakelock.android.wakelock_plus.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1547853223/dev.fluttercommunity.plus.wakelock.android.wakelock_plus.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/1547853223/dev.fluttercommunity.plus.wakelock.android.wakelock_plus.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1992690762/io.flutter.plugins.googlemobileads.android.google_mobile_ads.androidTest~1.iml" filepath="$PROJECT_DIR$/.idea/modules/-1992690762/io.flutter.plugins.googlemobileads.android.google_mobile_ads.androidTest~1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1992690762/io.flutter.plugins.googlemobileads.android.google_mobile_ads.main~1.iml" filepath="$PROJECT_DIR$/.idea/modules/-1992690762/io.flutter.plugins.googlemobileads.android.google_mobile_ads.main~1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1992690762/io.flutter.plugins.googlemobileads.android.google_mobile_ads.unitTest~1.iml" filepath="$PROJECT_DIR$/.idea/modules/-1992690762/io.flutter.plugins.googlemobileads.android.google_mobile_ads.unitTest~1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1136229133/io.flutter.plugins.webviewflutter.android.webview_flutter_android.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-1136229133/io.flutter.plugins.webviewflutter.android.webview_flutter_android.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1136229133/io.flutter.plugins.webviewflutter.android.webview_flutter_android.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-1136229133/io.flutter.plugins.webviewflutter.android.webview_flutter_android.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1136229133/io.flutter.plugins.webviewflutter.android.webview_flutter_android.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-1136229133/io.flutter.plugins.webviewflutter.android.webview_flutter_android.unitTest.iml" />
+    </modules>
+  </component>
+</project>

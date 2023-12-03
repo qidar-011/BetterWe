@@ -1,0 +1,37 @@
+{
+  "name": "flutter_braintree",
+  "version": "1.0.0",
+  "summary": "A Flutter plugin for Braintree",
+  "description": "A Flutter plugin that wraps the native Braintree Drop-In UI SDKs.",
+  "homepage": "https://github.com/Pikaju/FlutterBraintree",
+  "license": {
+    "file": "../LICENSE"
+  },
+  "authors": {
+    "Julien Scholz": ""
+  },
+  "source": {
+    "path": "."
+  },
+  "source_files": "Classes/**/*",
+  "public_header_files": "Classes/**/*.h",
+  "dependencies": {
+    "Flutter": [
+
+    ],
+    "BraintreeDropIn": [
+      "9.4.0"
+    ],
+    "Braintree/PayPal": [
+      "~> 5.6.3"
+    ],
+    "Braintree/ApplePay": [
+      "~> 5.6.3"
+    ]
+  },
+  "platforms": {
+    "ios": "12.0"
+  },
+  "swift_versions": "5.0",
+  "swift_version": "5.0"
+}

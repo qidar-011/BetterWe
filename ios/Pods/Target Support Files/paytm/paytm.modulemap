@@ -1,0 +1,6 @@
+framework module paytm {
+  umbrella header "paytm-umbrella.h"
+
+  export *
+  module * { export * }
+}

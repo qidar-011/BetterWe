@@ -1,0 +1,30 @@
+{
+  "name": "the_apple_sign_in",
+  "version": "1.0.0",
+  "summary": "Sign in With Apple for Flutter.",
+  "description": "Sign in With Apple for Flutter. Native API bindings and a Flutter implementation of the sign in button.",
+  "homepage": "https://github.com/beerstorm-net/the_apple_sign_in",
+  "license": {
+    "file": "../LICENSE"
+  },
+  "authors": {
+    "Beerstorm": "yg@beerstorm.net"
+  },
+  "source": {
+    "path": "."
+  },
+  "source_files": "Classes/**/*",
+  "public_header_files": "Classes/**/*.h",
+  "dependencies": {
+    "Flutter": [
+
+    ]
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "pod_target_xcconfig": {
+    "DEFINES_MODULE": "YES",
+    "EXCLUDED_ARCHS[sdk=iphonesimulator*]": "i386"
+  }
+}
